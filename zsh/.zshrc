@@ -97,6 +97,7 @@ alias sysupgrade="sudo pacman -Syu"
 
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/.npm-global/bin:$PATH"
+export PATH="$HOME/.cargo/bin:$PATH"
 
 # ----------------------------
 # Java
