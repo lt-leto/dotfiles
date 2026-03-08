@@ -21,10 +21,5 @@ return {
       json = { "oxfmt" },
       jsonc = { "oxfmt" },
     })
-
-    opts.format_on_save = {
-      timeout_ms = 2000,
-      lsp_fallback = true,
-    }
   end,
 }
